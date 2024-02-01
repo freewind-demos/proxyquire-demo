@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "proxyquire": "^1.7.10"
+    "proxyquire": "1.7.10"
   }
 }
